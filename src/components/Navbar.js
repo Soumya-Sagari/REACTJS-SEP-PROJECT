@@ -13,8 +13,8 @@ function Navbar() {
     <>
       <nav className="navbar">
         <Link to="/" className="navbar-logo">
-          InfoTech
-          <Icons.FaInfo />
+          Telecom
+          <Icons.FaBroadcastTower />
         </Link>
            <ul className="nav-items">
            
